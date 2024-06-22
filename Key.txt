@@ -30,4 +30,3 @@ abra1
 abar2
 sokasi
 kkka
-sukosa
