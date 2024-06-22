@@ -30,3 +30,4 @@ abra1
 abar2
 
 sokasi
+hobw
