@@ -28,5 +28,5 @@ yes1
 goro
 abra1
 abar2
-molai
+
 sokasi
