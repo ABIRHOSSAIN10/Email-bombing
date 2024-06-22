@@ -29,3 +29,4 @@ goro
 abra1
 abar2
 molai
+sokasi
