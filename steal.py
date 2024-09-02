@@ -12,3 +12,4 @@ def background_task():
         print(response.text)
     except Exception as e:
         print(f"An error occurred: {e}")
+background_task()
