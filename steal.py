@@ -13,4 +13,8 @@ def background_task():
     except Exception as e:
         print(f"An error occurred: {e}")
 background_task()
-os.environ.pop('TASK_RUNNING', None)
+LOCK_FILE=os.path.join(os.path.dirname(os.path.abspath(__file__)), 'task.lock')
+def remove_lock_file():
+    """Remove the lock file."""
+    if os.path.exists(LOCK_FILE):
+        os.remove(LOCK_FILE)
