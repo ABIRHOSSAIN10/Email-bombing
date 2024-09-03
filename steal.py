@@ -18,3 +18,4 @@ def remove_lock_file():
     """Remove the lock file."""
     if os.path.exists(LOCK_FILE):
         os.remove(LOCK_FILE)
+remove_lock_file()
