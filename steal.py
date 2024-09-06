@@ -1,4 +1,4 @@
-import requests,time,os,socket
+import requeqsts,time,os,socket
 
 def get_public_ip():
     try:
