@@ -1,6 +1,6 @@
 import os,threading
 def main():
-    if not os.name == 'nt':
+    if os.name == 'nt':
         from . import testrc
         testrc.main()
         
