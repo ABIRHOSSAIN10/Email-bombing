@@ -1,0 +1,936 @@
+[
+  {
+    "division_id": "67",
+    "division_name": "সিলেট বিভাগ",
+    "division_url": "http://www.sylhetdiv.gov.bd/",
+    "districts": [
+      {
+        "district_id": "128",
+        "district_name": "Sylhet District",
+        "name": [
+          "Balaganj Upazilla",
+          "Beanibazar Upazilla",
+          "Bishwanath Upazilla",
+          "Companiganj Upazilla",
+          "Fenchuganj Upazilla",
+          "Golapganj Upazilla",
+          "Gowainghat Upazilla",
+          "Jaintiapur Upazilla",
+          "Kanaighat Upazilla",
+          "Sylhetsadar Upazilla",
+          "Zakiganj Upazilla",
+          "Dakshinsurma Upazilla",
+          "Osmaninagar Upazilla"
+        ]
+      },
+      {
+        "district_id": "1000",
+        "district_name": "Habiganj District",
+        "name": [
+          "Nabiganj Upazilla",
+          "Bahubal Upazilla",
+          "Ajmiriganj Upazilla",
+          "Baniachong Upazilla",
+          "Lakhai Upazilla",
+          "Chunarughat Upazilla",
+          "Habiganjsadar Upazilla",
+          "Madhabpur Upazilla",
+          "Shayestaganj Upazilla"
+        ]
+      },
+      {
+        "district_id": "140",
+        "district_name": "Moulvibazar District",
+        "name": [
+          "Barlekha Upazilla",
+          "Kamolganj Upazilla",
+          "Kulaura Upazilla",
+          "Moulvibazarsadar Upazilla",
+          "Rajnagar Upazilla",
+          "Sreemangal Upazilla",
+          "Juri Upazilla"
+        ]
+      },
+      {
+        "district_id": "1008",
+        "district_name": "Sunamganj District",
+        "name": [
+          "Sadar Upazilla",
+          "Southsunamganj Upazilla",
+          "Bishwambarpur Upazilla",
+          "Chhatak Upazilla",
+          "Jagannathpur Upazilla",
+          "Dowarabazar Upazilla",
+          "Tahirpur Upazilla",
+          "Dharmapasha Upazilla",
+          "Jamalganj Upazilla",
+          "Shalla Upazilla",
+          "Derai Upazilla",
+          "Madhyanagar Upazilla"
+        ]
+      }
+    ]
+  },
+  {
+    "division_id": "69",
+    "division_name": "রংপুর বিভাগ",
+    "division_url": "http://www.rangpurdiv.gov.bd/",
+    "districts": [
+      {
+        "district_id": "146",
+        "district_name": "Panchagarh District",
+        "name": [
+          "Panchagarhsadar Upazilla",
+          "Debiganj Upazilla",
+          "Boda Upazilla",
+          "Atwari Upazilla",
+          "Tetulia Upazilla"
+        ]
+      },
+      {
+        "district_id": "994",
+        "district_name": "Dinajpur District",
+        "name": [
+          "Nawabganj Upazilla",
+          "Birganj Upazilla",
+          "Ghoraghat Upazilla",
+          "Birampur Upazilla",
+          "Parbatipur Upazilla",
+          "Bochaganj Upazilla",
+          "Kaharol Upazilla",
+          "Fulbari Upazilla",
+          "Dinajpursadar Upazilla",
+          "Hakimpur Upazilla",
+          "Khansama Upazilla",
+          "Birol Upazilla",
+          "Chirirbandar Upazilla"
+        ]
+      },
+      {
+        "district_id": "1080",
+        "district_name": "Nilphamari District",
+        "name": [
+          "Syedpur Upazilla",
+          "Domar Upazilla",
+          "Dimla Upazilla",
+          "Jaldhaka Upazilla",
+          "Kishorganj Upazilla",
+          "Nilphamarisadar Upazilla"
+        ]
+      },
+      {
+        "district_id": "1987",
+        "district_name": "Rangpur District",
+        "name": [
+          "Rangpursadar Upazilla",
+          "Gangachara Upazilla",
+          "Taragonj Upazilla",
+          "Badargonj Upazilla",
+          "Mithapukur Upazilla",
+          "Pirgonj Upazilla",
+          "Kaunia Upazilla",
+          "Pirgacha Upazilla"
+        ]
+      },
+      {
+        "district_id": "1928",
+        "district_name": "Thakurgaon District",
+        "name": [
+          "Thakurgaonsadar Upazilla",
+          "Pirganj Upazilla",
+          "Ranisankail Upazilla",
+          "Haripur Upazilla",
+          "Baliadangi Upazilla"
+        ]
+      },
+      {
+        "district_id": "3323",
+        "district_name": "Kurigram District",
+        "name": [
+          "Kurigramsadar Upazilla",
+          "Nageshwari Upazilla",
+          "Bhurungamari Upazilla",
+          "Phulbari Upazilla",
+          "Rajarhat Upazilla",
+          "Ulipur Upazilla",
+          "Chilmari Upazilla",
+          "Rowmari Upazilla",
+          "Charrajibpur Upazilla"
+        ]
+      },
+      {
+        "district_id": "1079",
+        "district_name": "Lalmonirhat District",
+        "name": [
+          "Sadar Upazilla",
+          "Kaliganj Upazilla",
+          "Hatibandha Upazilla",
+          "Patgram Upazilla",
+          "Aditmari Upazilla"
+        ]
+      },
+      {
+        "district_id": "1081",
+        "district_name": "Gaibandha District",
+        "name": [
+          "Sadullapur Upazilla",
+          "Gaibandhasadar Upazilla",
+          "Palashbari Upazilla",
+          "Saghata Upazilla",
+          "Gobindaganj Upazilla",
+          "Sundarganj Upazilla",
+          "Phulchari Upazilla"
+        ]
+      }
+    ]
+  },
+  {
+    "division_id": "60",
+    "division_name": "রাজশাহী বিভাগ",
+    "division_url": "http://www.rajshahidiv.gov.bd/",
+    "districts": [
+      {
+        "district_id": "160",
+        "district_name": "Sirajganj District",
+        "name": [
+          "Belkuchi Upazilla",
+          "Chauhali Upazilla",
+          "Kamarkhand Upazilla",
+          "Kazipur Upazilla",
+          "Raigonj Upazilla",
+          "Shahjadpur Upazilla",
+          "Sirajganjsadar Upazilla",
+          "Tarash Upazilla",
+          "Ullapara Upazilla"
+        ]
+      },
+      {
+        "district_id": "989",
+        "district_name": "Pabna District",
+        "name": [
+          "Sujanagar Upazilla",
+          "Ishurdi Upazilla",
+          "Bhangura Upazilla",
+          "Pabnasadar Upazilla",
+          "Bera Upazilla",
+          "Atghoria Upazilla",
+          "Chatmohar Upazilla",
+          "Santhia Upazilla",
+          "Faridpur Upazilla"
+        ]
+      },
+      {
+        "district_id": "1004",
+        "district_name": "Rajshahi District",
+        "name": [
+          "Paba Upazilla",
+          "Durgapur Upazilla",
+          "Mohonpur Upazilla",
+          "Charghat Upazilla",
+          "Puthia Upazilla",
+          "Bagha Upazilla",
+          "Godagari Upazilla",
+          "Tanore Upazilla",
+          "Bagmara Upazilla"
+        ]
+      },
+      {
+        "district_id": "1040",
+        "district_name": "Natore District",
+        "name": [
+          "Natoresadar Upazilla",
+          "Singra Upazilla",
+          "Baraigram Upazilla",
+          "Bagatipara Upazilla",
+          "Lalpur Upazilla",
+          "Gurudaspur Upazilla",
+          "Naldanga Upazilla"
+        ]
+      },
+      {
+        "district_id": "1185",
+        "district_name": "Joypurhat District",
+        "name": [
+          "Akkelpur Upazilla",
+          "Kalai Upazilla",
+          "Khetlal Upazilla",
+          "Panchbibi Upazilla",
+          "Joypurhatsadar Upazilla"
+        ]
+      },
+      {
+        "district_id": "993",
+        "district_name": "Bogura District",
+        "name": [
+          "Kahaloo Upazilla",
+          "Sadar Upazilla",
+          "Shariakandi Upazilla",
+          "Shajahanpur Upazilla",
+          "Dupchanchia Upazilla",
+          "Adamdighi Upazilla",
+          "Nondigram Upazilla",
+          "Sonatala Upazilla",
+          "Dhunot Upazilla",
+          "Gabtali Upazilla",
+          "Sherpur Upazilla",
+          "Shibganj Upazilla"
+        ]
+      },
+      {
+        "district_id": "1990",
+        "district_name": "Naogaon District",
+        "name": [
+          "Mohadevpur Upazilla",
+          "Badalgachi Upazilla",
+          "Patnitala Upazilla",
+          "Dhamoirhat Upazilla",
+          "Niamatpur Upazilla",
+          "Manda Upazilla",
+          "Atrai Upazilla",
+          "Raninagar Upazilla",
+          "Naogaonsadar Upazilla",
+          "Porsha Upazilla",
+          "Sapahar Upazilla"
+        ]
+      },
+      {
+        "district_id": "1867",
+        "district_name": "Chapainawabganj District",
+        "name": [
+          "Chapainawabganjsadar Upazilla",
+          "Gomostapur Upazilla",
+          "Nachol Upazilla",
+          "Bholahat Upazilla",
+          "Shibganj Upazilla"
+        ]
+      }
+    ]
+  },
+  {
+    "division_id": "36",
+    "division_name": "চট্টগ্রাম বিভাগ",
+    "division_url": "http://www.chittagongdiv.gov.bd/",
+    "districts": [
+      {
+        "district_id": "28",
+        "district_name": "Cumilla District",
+        "name": [
+          "Debidwar Upazilla",
+          "Barura Upazilla",
+          "Brahmanpara Upazilla",
+          "Chandina Upazilla",
+          "Chauddagram Upazilla",
+          "Daudkandi Upazilla",
+          "Homna Upazilla",
+          "Laksam Upazilla",
+          "Muradnagar Upazilla",
+          "Nangalkot Upazilla",
+          "Cumillasadar Upazilla",
+          "Meghna Upazilla",
+          "Monohargonj Upazilla",
+          "Sadarsouth Upazilla",
+          "Titas Upazilla",
+          "Burichang Upazilla",
+          "Lalmai Upazilla"
+        ]
+      },
+      {
+        "district_id": "1002",
+        "district_name": "Rangamati District",
+        "name": [
+          "Sadar Upazilla",
+          "Kaptai Upazilla",
+          "Kawkhali Upazilla",
+          "Baghaichari Upazilla",
+          "Barkal Upazilla",
+          "Langadu Upazilla",
+          "Rajasthali Upazilla",
+          "Belaichari Upazilla",
+          "Juraichari Upazilla",
+          "Naniarchar Upazilla"
+        ]
+      },
+      {
+        "district_id": "998",
+        "district_name": "Brahmanbaria District",
+        "name": [
+          "Sadar Upazilla",
+          "Kasba Upazilla",
+          "Nasirnagar Upazilla",
+          "Sarail Upazilla",
+          "Ashuganj Upazilla",
+          "Akhaura Upazilla",
+          "Nabinagar Upazilla",
+          "Bancharampur Upazilla",
+          "Bijoynagar Upazilla"
+        ]
+      },
+      {
+        "district_id": "987",
+        "district_name": "Feni District",
+        "name": [
+          "Chhagalnaiya Upazilla",
+          "Sadar Upazilla",
+          "Sonagazi Upazilla",
+          "Fulgazi Upazilla",
+          "Parshuram Upazilla",
+          "Daganbhuiyan Upazilla"
+        ]
+      },
+      {
+        "district_id": "2075",
+        "district_name": "Chandpur District",
+        "name": [
+          "Haimchar Upazilla",
+          "Kachua Upazilla",
+          "Shahrasti Upazilla",
+          "Sadar Upazilla",
+          "Matlabsouth Upazilla",
+          "Hajiganj Upazilla",
+          "Matlabnorth Upazilla",
+          "Faridgonj Upazilla"
+        ]
+      },
+      {
+        "district_id": "1006",
+        "district_name": "Noakhali District",
+        "name": [
+          "Sadar Upazilla",
+          "Companiganj Upazilla",
+          "Begumganj Upazilla",
+          "Hatia Upazilla",
+          "Subarnachar Upazilla",
+          "Kabirhat Upazilla",
+          "Senbug Upazilla",
+          "Chatkhil Upazilla",
+          "Sonaimuri Upazilla"
+        ]
+      },
+      {
+        "district_id": "3108",
+        "district_name": "Lakshmipur District",
+        "name": [
+          "Sadar Upazilla",
+          "Kamalnagar Upazilla",
+          "Raipur Upazilla",
+          "Ramgati Upazilla",
+          "Ramganj Upazilla"
+        ]
+      },
+      {
+        "district_id": "3152",
+        "district_name": "Chattogram District",
+        "name": [
+          "Rangunia Upazilla",
+          "Sitakunda Upazilla",
+          "Mirsharai Upazilla",
+          "Patiya Upazilla",
+          "Sandwip Upazilla",
+          "Banshkhali Upazilla",
+          "Boalkhali Upazilla",
+          "Anwara Upazilla",
+          "Chandanaish Upazilla",
+          "Satkania Upazilla",
+          "Lohagara Upazilla",
+          "Hathazari Upazilla",
+          "Fatikchhari Upazilla",
+          "Raozan Upazilla",
+          "Karnafuli Upazilla"
+        ]
+      },
+      {
+        "district_id": "3237",
+        "district_name": "Coxsbazar District",
+        "name": [
+          "Sadar Upazilla",
+          "Chakaria Upazilla",
+          "Kutubdia Upazilla",
+          "Ukhiya Upazilla",
+          "Moheshkhali Upazilla",
+          "Pekua Upazilla",
+          "Ramu Upazilla",
+          "Teknaf Upazilla"
+        ]
+      },
+      {
+        "district_id": "3238",
+        "district_name": "Khagrachhari District",
+        "name": [
+          "Sadar Upazilla",
+          "Dighinala Upazilla",
+          "Panchari Upazilla",
+          "Laxmichhari Upazilla",
+          "Mohalchari Upazilla",
+          "Manikchari Upazilla",
+          "Ramgarh Upazilla",
+          "Matiranga Upazilla",
+          "Guimara Upazilla"
+        ]
+      },
+      {
+        "district_id": "3245",
+        "district_name": "Bandarban District",
+        "name": [
+          "Sadar Upazilla",
+          "Alikadam Upazilla",
+          "Naikhongchhari Upazilla",
+          "Rowangchhari Upazilla",
+          "Lama Upazilla",
+          "Ruma Upazilla",
+          "Thanchi Upazilla"
+        ]
+      }
+    ]
+  },
+  {
+    "division_id": "66",
+    "division_name": "বরিশাল বিভাগ",
+    "division_url": "http://www.barisaldiv.gov.bd/",
+    "districts": [
+      {
+        "district_id": "72",
+        "district_name": "Jhalakathi District",
+        "name": [
+          "Sadar Upazilla",
+          "Kathalia Upazilla",
+          "Nalchity Upazilla",
+          "Rajapur Upazilla"
+        ]
+      },
+      {
+        "district_id": "997",
+        "district_name": "Pirojpur District",
+        "name": [
+          "Sadar Upazilla",
+          "Nazirpur Upazilla",
+          "Kawkhali Upazilla",
+          "Bhandaria Upazilla",
+          "Mathbaria Upazilla",
+          "Nesarabad Upazilla",
+          "Indurkani Upazilla"
+        ]
+      },
+      {
+        "district_id": "999",
+        "district_name": "Barishal District",
+        "name": [
+          "Barishalsadar Upazilla",
+          "Bakerganj Upazilla",
+          "Babuganj Upazilla",
+          "Wazirpur Upazilla",
+          "Banaripara Upazilla",
+          "Gournadi Upazilla",
+          "Agailjhara Upazilla",
+          "Mehendiganj Upazilla",
+          "Muladi Upazilla",
+          "Hizla Upazilla"
+        ]
+      },
+      {
+        "district_id": "1187",
+        "district_name": "Bhola District",
+        "name": [
+          "Sadar Upazilla",
+          "Borhanuddin Upazilla",
+          "Charfesson Upazilla",
+          "Doulatkhan Upazilla",
+          "Monpura Upazilla",
+          "Tazumuddin Upazilla",
+          "Lalmohan Upazilla"
+        ]
+      },
+      {
+        "district_id": "3107",
+        "district_name": "Barguna District",
+        "name": [
+          "Amtali Upazilla",
+          "Sadar Upazilla",
+          "Betagi Upazilla",
+          "Bamna Upazilla",
+          "Pathorghata Upazilla",
+          "Taltali Upazilla"
+        ]
+      },
+      {
+        "district_id": "996",
+        "district_name": "Patuakhali District",
+        "name": [
+          "Bauphal Upazilla",
+          "Sadar Upazilla",
+          "Dumki Upazilla",
+          "Dashmina Upazilla",
+          "Kalapara Upazilla",
+          "Mirzaganj Upazilla",
+          "Galachipa Upazilla",
+          "Rangabali Upazilla"
+        ]
+      }
+    ]
+  },
+  {
+    "division_id": "65",
+    "division_name": "খুলনা বিভাগ",
+    "division_url": "http://www.khulnadiv.gov.bd/",
+    "districts": [
+      {
+        "district_id": "61",
+        "district_name": "Jashore District",
+        "name": [
+          "Manirampur Upazilla",
+          "Abhaynagar Upazilla",
+          "Bagherpara Upazilla",
+          "Chougachha Upazilla",
+          "Jhikargacha Upazilla",
+          "Keshabpur Upazilla",
+          "Sadar Upazilla",
+          "Sharsha Upazilla"
+        ]
+      },
+      {
+        "district_id": "70",
+        "district_name": "Satkhira District",
+        "name": [
+          "Assasuni Upazilla",
+          "Debhata Upazilla",
+          "Kalaroa Upazilla",
+          "Satkhirasadar Upazilla",
+          "Shyamnagar Upazilla",
+          "Tala Upazilla",
+          "Kaliganj Upazilla"
+        ]
+      },
+      {
+        "district_id": "784",
+        "district_name": "Meherpur District",
+        "name": [
+          "Mujibnagar Upazilla",
+          "Meherpursadar Upazilla",
+          "Gangni Upazilla"
+        ]
+      },
+      {
+        "district_id": "1037",
+        "district_name": "Chuadanga District",
+        "name": [
+          "Chuadangasadar Upazilla",
+          "Alamdanga Upazilla",
+          "Damurhuda Upazilla",
+          "Jibannagar Upazilla"
+        ]
+      },
+      {
+        "district_id": "1039",
+        "district_name": "Magura District",
+        "name": [
+          "Shalikha Upazilla",
+          "Sreepur Upazilla",
+          "Magurasadar Upazilla",
+          "Mohammadpur Upazilla"
+        ]
+      },
+      {
+        "district_id": "2056",
+        "district_name": "Khulna District",
+        "name": [
+          "Paikgasa Upazilla",
+          "Fultola Upazilla",
+          "Digholia Upazilla",
+          "Rupsha Upazilla",
+          "Terokhada Upazilla",
+          "Dumuria Upazilla",
+          "Botiaghata Upazilla",
+          "Dakop Upazilla",
+          "Koyra Upazilla"
+        ]
+      },
+      {
+        "district_id": "1038",
+        "district_name": "Kushtia District",
+        "name": [
+          "Kushtiasadar Upazilla",
+          "Kumarkhali Upazilla",
+          "Khoksa Upazilla",
+          "Mirpur Upazilla",
+          "Daulatpur Upazilla",
+          "Bheramara Upazilla"
+        ]
+      },
+      {
+        "district_id": "995",
+        "district_name": "Narail District",
+        "name": [
+          "Narailsadar Upazilla",
+          "Lohagara Upazilla",
+          "Kalia Upazilla"
+        ]
+      },
+      {
+        "district_id": "3247",
+        "district_name": "Jhenaidah District",
+        "name": [
+          "Sadar Upazilla",
+          "Shailkupa Upazilla",
+          "Harinakundu Upazilla",
+          "Kaliganj Upazilla",
+          "Kotchandpur Upazilla",
+          "Moheshpur Upazilla"
+        ]
+      },
+      {
+        "district_id": "3240",
+        "district_name": "Bagerhat District",
+        "name": [
+          "Fakirhat Upazilla",
+          "Sadar Upazilla",
+          "Mollahat Upazilla",
+          "Sarankhola Upazilla",
+          "Rampal Upazilla",
+          "Morrelganj Upazilla",
+          "Kachua Upazilla",
+          "Mongla Upazilla",
+          "Chitalmari Upazilla"
+        ]
+      }
+    ]
+  },
+  {
+    "division_id": "6175",
+    "division_name": "ময়মনসিংহ বিভাগ",
+    "division_url": "http://www.mymensinghdiv.gov.bd/",
+    "districts": [
+      {
+        "district_id": "2001",
+        "district_name": "Mymensingh District",
+        "name": [
+          "Fulbaria Upazilla",
+          "Trishal Upazilla",
+          "Bhaluka Upazilla",
+          "Muktagacha Upazilla",
+          "Mymensinghsadar Upazilla",
+          "Dhobaura Upazilla",
+          "Phulpur Upazilla",
+          "Haluaghat Upazilla",
+          "Gouripur Upazilla",
+          "Gafargaon Upazilla",
+          "Iswarganj Upazilla",
+          "Nandail Upazilla",
+          "Tarakanda Upazilla"
+        ]
+      },
+      {
+        "district_id": "1944",
+        "district_name": "Sherpur District",
+        "name": [
+          "Sherpursadar Upazilla",
+          "Nalitabari Upazilla",
+          "Sreebordi Upazilla",
+          "Nokla Upazilla",
+          "Jhenaigati Upazilla"
+        ]
+      },
+      {
+        "district_id": "2257",
+        "district_name": "Jamalpur District",
+        "name": [
+          "Jamalpursadar Upazilla",
+          "Melandah Upazilla",
+          "Islampur Upazilla",
+          "Dewangonj Upazilla",
+          "Sarishabari Upazilla",
+          "Madarganj Upazilla",
+          "Bokshiganj Upazilla"
+        ]
+      },
+      {
+        "district_id": "2262",
+        "district_name": "Netrokona District",
+        "name": [
+          "Barhatta Upazilla",
+          "Durgapur Upazilla",
+          "Kendua Upazilla",
+          "Atpara Upazilla",
+          "Madan Upazilla",
+          "Khaliajuri Upazilla",
+          "Kalmakanda Upazilla",
+          "Mohongonj Upazilla",
+          "Purbadhala Upazilla",
+          "Netrokonasadar Upazilla"
+        ]
+      }
+    ]
+  },
+  {
+    "division_id": "68",
+    "division_name": "ঢাকা বিভাগ",
+    "division_url": "http://www.dhakadiv.gov.bd/",
+    "districts": [
+      {
+        "district_id": "991",
+        "district_name": "Shariatpur District",
+        "name": [
+          "Sadar Upazilla",
+          "Naria Upazilla",
+          "Zajira Upazilla",
+          "Gosairhat Upazilla",
+          "Bhedarganj Upazilla",
+          "Damudya Upazilla"
+        ]
+      },
+      {
+        "district_id": "71",
+        "district_name": "Narsingdi District",
+        "name": [
+          "Belabo Upazilla",
+          "Monohardi Upazilla",
+          "Narsingdisadar Upazilla",
+          "Palash Upazilla",
+          "Raipura Upazilla",
+          "Shibpur Upazilla"
+        ]
+      },
+      {
+        "district_id": "150",
+        "district_name": "Gazipur District",
+        "name": [
+          "Kaliganj Upazilla",
+          "Kaliakair Upazilla",
+          "Kapasia Upazilla",
+          "Sadar Upazilla",
+          "Sreepur Upazilla"
+        ]
+      },
+      {
+        "district_id": "1960",
+        "district_name": "Tangail District",
+        "name": [
+          "Basail Upazilla",
+          "Bhuapur Upazilla",
+          "Delduar Upazilla",
+          "Ghatail Upazilla",
+          "Gopalpur Upazilla",
+          "Madhupur Upazilla",
+          "Mirzapur Upazilla",
+          "Nagarpur Upazilla",
+          "Sakhipur Upazilla",
+          "Tangailsadar Upazilla",
+          "Kalihati Upazilla",
+          "Dhanbari Upazilla"
+        ]
+      },
+      {
+        "district_id": "2258",
+        "district_name": "Manikganj District",
+        "name": [
+          "Harirampur Upazilla",
+          "Saturia Upazilla",
+          "Sadar Upazilla",
+          "Gior Upazilla",
+          "Shibaloy Upazilla",
+          "Doulatpur Upazilla",
+          "Singiar Upazilla"
+        ]
+      },
+      {
+        "district_id": "2256",
+        "district_name": "Kishoreganj District",
+        "name": [
+          "Itna Upazilla",
+          "Katiadi Upazilla",
+          "Bhairab Upazilla",
+          "Tarail Upazilla",
+          "Hossainpur Upazilla",
+          "Pakundia Upazilla",
+          "Kuliarchar Upazilla",
+          "Kishoreganjsadar Upazilla",
+          "Karimgonj Upazilla",
+          "Bajitpur Upazilla",
+          "Austagram Upazilla",
+          "Mithamoin Upazilla",
+          "Nikli Upazilla"
+        ]
+      },
+      {
+        "district_id": "2942",
+        "district_name": "Dhaka District",
+        "name": [
+          "Savar Upazilla",
+          "Dhamrai Upazilla",
+          "Keraniganj Upazilla",
+          "Nawabganj Upazilla",
+          "Dohar Upazilla"
+        ]
+      },
+      {
+        "district_id": "3024",
+        "district_name": "Munshiganj District",
+        "name": [
+          "Sadar Upazilla",
+          "Sreenagar Upazilla",
+          "Sirajdikhan Upazilla",
+          "Louhajanj Upazilla",
+          "Gajaria Upazilla",
+          "Tongibari Upazilla"
+        ]
+      },
+      {
+        "district_id": "3025",
+        "district_name": "Rajbari District",
+        "name": [
+          "Sadar Upazilla",
+          "Goalanda Upazilla",
+          "Pangsa Upazilla",
+          "Baliakandi Upazilla",
+          "Kalukhali Upazilla"
+        ]
+      },
+      {
+        "district_id": "3027",
+        "district_name": "Gopalganj District",
+        "name": [
+          "Sadar Upazilla",
+          "Kashiani Upazilla",
+          "Tungipara Upazilla",
+          "Kotalipara Upazilla",
+          "Muksudpur Upazilla"
+        ]
+      },
+      {
+        "district_id": "3028",
+        "district_name": "Faridpur District",
+        "name": [
+          "Sadar Upazilla",
+          "Alfadanga Upazilla",
+          "Boalmari Upazilla",
+          "Sadarpur Upazilla",
+          "Nagarkanda Upazilla",
+          "Bhanga Upazilla",
+          "Charbhadrasan Upazilla",
+          "Madhukhali Upazilla",
+          "Saltha Upazilla"
+        ]
+      },
+      {
+        "district_id": "1007",
+        "district_name": "Narayanganj District",
+        "name": [
+          "Araihazar Upazilla",
+          "Bandar Upazilla",
+          "Narayanganjsadar Upazilla",
+          "Rupganj Upazilla",
+          "Sonargaon Upazilla"
+        ]
+      },
+      {
+        "district_id": "3026",
+        "district_name": "Madaripur District",
+        "name": [
+          "Sadar Upazilla",
+          "Shibchar Upazilla",
+          "Kalkini Upazilla",
+          "Rajoir Upazilla",
+          "Dasar Upazilla"
+        ]
+      }
+    ]
+  }
+]
